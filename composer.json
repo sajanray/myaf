@@ -1,5 +1,5 @@
 {
-    "name": "php/myaf",
+    "name": "sajanray_php/myaf",
     "description": "This a demo for build composer packagist",
     "type": "library",
     "license": "MIT",
