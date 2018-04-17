@@ -1,0 +1,14 @@
+{
+    "name": "php/myaf",
+    "description": "this is a test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sanjanray",
+            "email": "sanjanray@163.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
