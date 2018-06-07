@@ -17,7 +17,8 @@
         "psr-4": {
             "openapi\\store\\": "src/openapi/store",
             "openapi\\motor\\": "src/openapi/motor",
-            "openapi\\goods\\": "src/openapi/goods"
+            "openapi\\goods\\": "src/openapi/goods",
+            "Lib\\": "src/Lib"
         }
     }
 }
