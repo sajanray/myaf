@@ -14,5 +14,9 @@ class motor
     public static function info()
     {
         echo "this si openapi/motor server<br/>";
+        echo "this si openapi/motor server<br/>";
+        echo "this si openapi/motor server<br/>";
+        echo "this si openapi/motor server<br/>";
+        echo "this si openapi/motor server<br/>";
     }
 }
