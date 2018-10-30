@@ -15,4 +15,9 @@ class store
     {
         echo "this si openapi/store server<br/>";
     }
+
+    public static function test()
+    {
+        echo __FILE__,":",__LINE__;
+    }
 }
